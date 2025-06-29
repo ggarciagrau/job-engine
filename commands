@@ -1,1 +1,3 @@
 nx [lint/serve] jobber-auth
+nx generate-types jobber-auth
+nx migrate-prisma jobber-auth
